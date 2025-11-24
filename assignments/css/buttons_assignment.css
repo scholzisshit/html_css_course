@@ -1,0 +1,42 @@
+/* uber */
+.uber_btn{
+    background-color: black;
+    color: white;
+}
+/* amazon */
+.amazon_btn{
+    background-color: rgb(rgb(237, 185, 40), green, blue);
+    color: black;
+}
+/* github */
+.github_btn{
+    background-color: lightgreen;
+    color: white;
+
+}
+/* bootstrap */
+.bootstrap_btn{
+
+}
+/* individual buttons */
+#start{
+    background-color: lavender;
+    color: white;
+}
+
+#download{
+    color: white;
+    
+}
+
+/* linkedin */
+.linkedin_btn{
+    
+}
+/* individual buttons */
+#apply{
+
+}
+#save{
+
+}
